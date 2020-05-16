@@ -1,4 +1,4 @@
-# Process-Spoof-Csharp
+# Process-Spoof-C#
 Proof of concept spoofing process id
 
 Translate PowerShell Script From This Repository:
